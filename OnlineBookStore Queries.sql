@@ -35,6 +35,8 @@ SELECT * FROM Books;
 SELECT * FROM Customers;
 SELECT * FROM Orders;
 
+--DIFFERENT QUERIES ON THE DATABASE AND ITS SOLUTIONS:
+
 -- 1) Retrieve all books in the "Fiction" genre:
 SELECT * FROM Books
 WHERE Genre="Fiction";
